@@ -31,6 +31,9 @@ This application is covered by the MIT license.
 ✏️ N/A<br />
 <br />
 
+## Github
+https://github.com/LangdonEcho/LangdonsEmployee-tracker
+
 Video functionality Link: https://watch.screencastify.com/v/yV9YzmNeiNYCpolHClQ3
 
 This README was generated with ❤️ by (https://github.com/LangdonEcho/LangdonsReadME-Generator)
